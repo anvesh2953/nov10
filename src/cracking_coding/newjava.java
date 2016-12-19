@@ -6,6 +6,7 @@ package cracking_coding;
 public class newjava {
 
     public static void main(String []args){
+        int k =10;
 
     }
 }
