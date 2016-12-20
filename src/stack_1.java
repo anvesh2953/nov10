@@ -52,6 +52,7 @@ public class stack_1{
         st.pop(1);
         st.pop(2);
         System.out.println(st.peek(0)+" "+st.peek(1)+" "+st.peek(2));
+        
 
     }
 }
